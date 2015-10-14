@@ -10,7 +10,7 @@ where: Münster
 when: Oktober, 2015
 links: # first one is used in subline
 - name: Trinkwasserqualität in Münster
-  url: http://codeformuenster.org/trinkwasser/
+  url: http://codefor.ms/trinkwasser
 
 header-images: #use 3:2 proportioned image
 - src: /assets/stories/magdego-hero.jpg
